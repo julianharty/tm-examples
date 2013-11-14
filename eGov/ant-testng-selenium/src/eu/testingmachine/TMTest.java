@@ -20,7 +20,7 @@ public class TMTest {
 
   //@Test(description="Launches an EGov webpage")
 
-  public String baseUrl = "http://www.provinz.bz.it/de/dienste/dienste-az.asp?bnsvaz_svid=1029144"; 
+  public String baseUrl = "http://www.provinz.bz.it/de/dienste/dienste-az.asp"; 
   
   public WebDriver driver;
 
